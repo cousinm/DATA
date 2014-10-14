@@ -1,0 +1,14 @@
+This folder contains eGalCS data associated to A&A COUSIN+14a, b
+The repository contains 4 sub-folders corresponding to the different models
+
+- m0: model without any regulation process
+- m1: reference model (Okamoto+98 photo-ionization prescription) 
+- m2: The Okamoto+98 photo-ionization prescription is replaced by Gnedin+00 prescription
+- m3: SN ejecta and gas ejecta process is based on Somerville+08 model
+- m4: Model with no-star-forming gas ad-hoc modification
+
+For each model:
+- galaxy properties are listed in eGalICS_m*.readme
+- dada are saved in eGalICS_m*.fits
+
+All data "fits" files are compatible with the TOPCAT software available on: http://www.star.bris.ac.uk/~mbt/topcat/
